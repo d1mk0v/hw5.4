@@ -5,7 +5,6 @@ import java.util.List;
 
 public class BookShelf {
     public static void main(String[] args) {
-
         List<String> books = Arrays.asList(
                 "Вий", "Азбука", "Мастер и Маргарита",
                 "Война и мир", "Преступление и наказание", "Белая гвардия"
